@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OHive
+Comment=Windows registry hive parser (regf) — key tree, value decode, ATT&CK persistence (offline)
+Exec=OHive
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=OForensics;
+Keywords=OHive;owlsec;security;registry;regf;hive;forensics;
